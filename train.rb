@@ -16,9 +16,9 @@ def load_dataset
   [x, y]
 end
 
-initial_epoch = 301
+initial_epoch = 1
 
-epochs = 400
+epochs = 300
 batch_size = 64
 
 if initial_epoch == 1
