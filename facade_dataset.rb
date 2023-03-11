@@ -3,7 +3,7 @@ require "dnn/image"
 
 module DNN
   module Facade
-    FACADE_URL = "http://cmp.felk.cvut.cz/~tylecr1/facade/"
+    FACADE_URL = "https://cmp.felk.cvut.cz/~tylecr1/facade/"
     BASE_DIR_NAME = "CMP_facade_DB_base"
     EXTENDED_DIR_NAME = "CMP_facade_DB_extended"
     BASE_PATH = "#{DOWNLOADS_PATH}/downloads/#{BASE_DIR_NAME}"
